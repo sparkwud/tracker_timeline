@@ -69,9 +69,13 @@ class OrderStatusTimeline extends StatelessWidget {
                 ],
               ),
             ),
-            // const SizedBox(width: 20),
+            const SizedBox(width: 12),
             Expanded(
               child: Card(
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                elevation: 5,
                 color: themeColors.surface,
                 child: ListTile(
                   title: Text(title,
