@@ -32,8 +32,8 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: ListView(
         padding: const EdgeInsets.only(
-          left: 16,
-          right: 16,
+          left: 20,
+          right: 20,
           top: 48,
           bottom: 16,
         ),
