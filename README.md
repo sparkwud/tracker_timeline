@@ -1,3 +1,3 @@
 # tracker_timeline
 
-A new Flutter project.
+A really dope package tracker timeline.
